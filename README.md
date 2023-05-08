@@ -6,7 +6,7 @@ This project was not intended to replicate all full features or design of IMDB a
 
 ## Demo
 
-https://youtu.be/AZZwwe-3F18
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 ## License
 
