@@ -6,7 +6,7 @@ This project was not intended to replicate all full features or design of IMDB a
 
 ## Demo
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZZwwe-3F18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## License
 
