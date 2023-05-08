@@ -6,7 +6,7 @@ This project was not intended to replicate all full features or design of IMDB a
 
 ## Demo
 
-<video src='https://youtu.be/AZZwwe-3F18' width=180/>
+<video src='(https://youtu.be/AZZwwe-3F18)' width=180/>
 
 ## License
 
